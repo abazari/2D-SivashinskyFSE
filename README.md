@@ -1,1 +1,1 @@
-# 2D-Sivashinsky-FspectralE
+# 2D-SivashinskyFSE
