@@ -1,5 +1,5 @@
 # 2D-SivashinskyFSE
-This Python code is for submitted manuscript titled by:
+This Python code is for the submitted manuscript titled:
 
 "Fourier Spectral Method and Euler scheme for Numerical simulation of 2D Sivashinsky equation"
 
