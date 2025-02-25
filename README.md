@@ -1,7 +1,7 @@
 # 2D-SivashinskyFSE
 This Python code is for the submitted manuscript titled:
 
-"Fourier Spectral Method and Euler scheme for Numerical simulation of 2D Sivashinsky equation"
+"Analysis of 2D Sivashinsky model of binary alloy solidification problems"
 
 Written by Reza Abazari (University of Mohaghegh Ardabili, Ardabil, Iran) and Kenan Yildirim (Mus Alparslan University, Mus, Turkey).
 
